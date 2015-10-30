@@ -1,0 +1,15 @@
+~ home
+$- tells what to do
+ls- view content of the folder
+blue text- folder
+white text- normal text 
+cd- change directory
+git add- add to file of repository
+git commit -m- commit all changes
+git push- puse all changes
+git status- view the status of the file
+R (tab)- README .md files
+Green text- who you are and where you are
+N (tab)- naja2445-cmis-wd
+ch (tab)- cheatsheet.txt 
+L (tab)- LICENSE
