@@ -1,0 +1,11 @@
+Open Terminal 
+Copy the cloning URL in your repository folder at the bottom right of the screen
+Paste the cloning URL in ther terminal. To paste the cloning URL in the terminal, holf "shift" and then press "insert".
+Then type cd and the name of your repository folder, then hit enter. 
+Type gedit space and the name of your new file space and then type "&", and then enter. 
+The text file will appear. 
+Type in your information that you want to add in there. 
+After you're done save it, and just close the text file. 
+Type "git add" and the name of that text file.
+Then type "git commit" -m "commit message" IN the commit message write a little discroption about what you have added in the text file, and then just hit enter. 
+Type "git push", then you'll have to write in the username of your hithub account, and when you hit enter, you'll need to type in your password as well (you won't be ble to see the password). Then hit enter. 
