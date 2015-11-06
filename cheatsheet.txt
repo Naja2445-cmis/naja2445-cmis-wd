@@ -13,3 +13,12 @@ Green text- who you are and where you are
 N (tab)- naja2445-cmis-wd
 ch (tab)- cheatsheet.txt 
 L (tab)- LICENSE
+cd.. - go up to the top
+<> </> - one element
+<> - tag 
+sftp naja2445@cmis-hsteacher : open sftp 
+rm - remove
+!ls - what's in public_html folder
+ls* - check all files in repository folder
+put * - add all files in repository folder 
+rm * - remove all files in repository folder 
