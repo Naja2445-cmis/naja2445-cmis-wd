@@ -1,4 +1,26 @@
-h1{
-	color:#FF9999;
+h2{
+	color:#202020;
 	font-family:"Courier New", Courier, monospace;
-	font-size:30px
+	background-color:#33CCCC;
+	font-size:40px;
+	border:10px solid yellow;
+	border-color:black;
+}
+h1{
+	color:#99FFFF;
+	font-family:"Courier New", Courier, monospace;
+	background-color:#FF9999;
+	font-size:50px;
+	border:10px solid yellow;
+	border-color:#580000 #33CCCC; 
+}
+main{
+	font-family:"Comic Sans MS", cursive, sans-serif;
+	background-color:#CCFF99;
+	font-size:20px;
+	border:5px solid yellow;
+	border-color:#FFCC66;
+}
+body{
+	background-image: url(http://www.themesltd.com/backgrounds/hipster/space_astronauts.png)
+}
