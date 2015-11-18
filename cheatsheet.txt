@@ -22,3 +22,8 @@ rm - remove
 ls* - check all files in repository folder
 put * - add all files in repository folder 
 rm * - remove all files in repository folder 
+To view my server----- python -m SimpleHTTPServer
+How I view my work on the  production server---cmishsteacher/~user or localhost:8000
+ctrl U --- view page source
+mkdir--make a folder
+
