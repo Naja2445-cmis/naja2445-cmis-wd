@@ -1,7 +1,39 @@
-header>h1{
-	font-size:35px;
+*{
+	outline:ridge navy 2px;
+}
+html{}
+
+body{
+
+}
+header {
+
 }
 
-h2>{
-	font-size:30px;
+nav {
+	width:200px;
+	float:left;
 }
+main{
+	margin-left:202px;
+}
+article{
+	width:;
+}
+footer{
+	clear:both;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
