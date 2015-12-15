@@ -18,3 +18,19 @@ h2{
 body{
 	background-image: url(http://img10.deviantart.net/5bee/i/2013/145/4/9/background__for_tumblr_or_twitter__by_martinsiilak-d66hkec.jpg)
 }
+table > thead { 
+		background-color:pink; 
+}
+table  tbody {	
+		background-color:#9999FF;
+}
+table + h2 {
+		background-color:#FFCCCC;
+		border: 5px inset blue;
+}
+table tfoot {
+		background-color:#33CCCC;
+}
+nav ~ footer { 
+		background-color: #FF6699;
+}
