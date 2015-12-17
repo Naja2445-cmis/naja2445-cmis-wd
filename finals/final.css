@@ -1,9 +1,8 @@
-*{
-	outline:ridge navy 2px;
-}
-html{}
-
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
 body{
+	background-image:url 
 
 }
 header {
@@ -13,9 +12,12 @@ header {
 nav {
 	width:200px;
 	float:left;
+	border:5px solid;
+	width:190px;
+	font-family: 'Oswald', sans-serif;
 }
 main{
-	margin-left:202px;
+	margin-left:250px;
 }
 article{
 	width:;
@@ -23,8 +25,18 @@ article{
 footer{
 	clear:both;
 }
-
-
+h1 {
+	font-family: 'Poiret One', cursive;
+}
+h2 {
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+h3 {
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+ul  {
+	font-family: 'Poiret One', cursive;
+}
 
 
 
