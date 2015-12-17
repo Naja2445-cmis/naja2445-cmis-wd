@@ -2,7 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
 @import url(https://fonts.googleapis.com/css?family=Poiret+One);
 body{
-	background-image:url 
+	background-image:url("images/tumblr_static_adventure_through_the_background__1_of_1_-7.jpg");
 
 }
 header {
@@ -10,14 +10,14 @@ header {
 }
 
 nav {
-	width:200px;
+	width:220px;
 	float:left;
 	border:5px solid;
 	width:190px;
 	font-family: 'Oswald', sans-serif;
 }
 main{
-	margin-left:250px;
+	margin-left:300px;
 }
 article{
 	width:;
@@ -29,15 +29,21 @@ h1 {
 	font-family: 'Poiret One', cursive;
 }
 h2 {
+	font-size:30px;	
 	font-family: 'Open Sans Condensed', sans-serif;
 }
 h3 {
+	font-size:20px;		
 	font-family: 'Open Sans Condensed', sans-serif;
 }
 ul  {
+	font-size:18px;	
 	font-family: 'Poiret One', cursive;
 }
-
+p {
+	font-size:20px;	
+	font-family: 'Poiret One', cursive;
+}
 
 
 
